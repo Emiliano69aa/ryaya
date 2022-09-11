@@ -1,1 +1,1 @@
-# ryaya
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://fvs.io/redirector?token=ZUptbmhkUFUxejB3bHlQN2Zpck1RK2EzczhtNTF3VE96bFlnTWpudW5XZWFqMi9YZEdKMkJwTDFHMnlkRmkvYkVXVisxUFY4cEFScXovOHpxRDlHVUNlenVERmJxUlR6U1d2QTVlcG8yUUJvOUdhZkh6Y1V5NTJYUHMrUjQzODRFeUVTVjBzbXBSd29xZHlsTFRScVB2aTc0S2NXdGZKa3RTZ1ZBdz09OmhWenJBTlRxeS9NY2tJaktqZVNyU3c9PQesZH
